@@ -55,7 +55,7 @@ Objective: Support users with **fixed destinations** and optimize **booking wind
 ---
 
 ## Phase 3 — Optimization & Growth (Q1 2025)
-🎯 Objective: Differentiate through **real-time intelligence** and **scalability**.  
+Objective: Differentiate through **real-time intelligence** and **scalability**.  
 
 **Key Deliverables**
 - Real-time price monitoring & alerts (email/push notifications).
