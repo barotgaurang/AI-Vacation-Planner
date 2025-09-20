@@ -17,7 +17,7 @@ To become the most trusted AI-powered travel assistant that simplifies vacation 
 ---
 
 ## Phase 1 — MVP Delivery (Q3 2024)
-🎯 Objective: Validate core value proposition with early adopters.  
+Objective: Validate core value proposition with early adopters.  
 
 **Key Deliverables**
 - Input capture form: destination(s), budget, preferences, free-text goals.
@@ -29,15 +29,15 @@ To become the most trusted AI-powered travel assistant that simplifies vacation 
 - Basic user feedback loop (thumbs up/down per itinerary).
 
 **Milestones**
-- ✅ Sprint 1: User input form + backend integration with mock data.  
-- ✅ Sprint 2: Basic AI recommendation engine (destinations + weather).  
-- ✅ Sprint 3: Cost estimation prototype + export feature.  
-- ✅ Sprint 4: Closed alpha test with 50 users.  
+- Sprint 1: User input form + backend integration with mock data.  
+- Sprint 2: Basic AI recommendation engine (destinations + weather).  
+- Sprint 3: Cost estimation prototype + export feature.  
+- Sprint 4: Closed alpha test with 50 users.  
 
 ---
 
 ## Phase 2 — Anchored Traveler Experience (Q4 2024)
-🎯 Objective: Support users with **fixed destinations** and optimize **booking windows**.  
+Objective: Support users with **fixed destinations** and optimize **booking windows**.  
 
 **Key Deliverables**
 - Predictive booking insights (best time to book flights & hotels).
@@ -47,10 +47,10 @@ To become the most trusted AI-powered travel assistant that simplifies vacation 
 - Saved itineraries + profile-based recommendations.
 
 **Milestones**
-- ✅ Sprint 5: Booking price prediction model (historical + trend data).  
-- ✅ Sprint 6: Anchored traveler itinerary flow (fixed destination UX).  
-- ✅ Sprint 7: Seasonal activities integration (festivals, cultural data).  
-- ✅ Sprint 8: Beta launch with 200 users.  
+- Sprint 5: Booking price prediction model (historical + trend data).  
+- Sprint 6: Anchored traveler itinerary flow (fixed destination UX).  
+- Sprint 7: Seasonal activities integration (festivals, cultural data).  
+- Sprint 8: Beta launch with 200 users.  
 
 ---
 
@@ -65,15 +65,15 @@ To become the most trusted AI-powered travel assistant that simplifies vacation 
 - Basic OTA integration for bookings (affiliate partnerships).
 
 **Milestones**
-- ✅ Sprint 9: Real-time monitoring integration (flights & hotels APIs).  
-- ✅ Sprint 10: Alternative destination AI suggestions.  
-- ✅ Sprint 11: User-selectable itinerary styles.  
-- ✅ Sprint 12: Partnerships with 2 OTA providers.  
+- Sprint 9: Real-time monitoring integration (flights & hotels APIs).  
+- Sprint 10: Alternative destination AI suggestions.  
+- Sprint 11: User-selectable itinerary styles.  
+- Sprint 12: Partnerships with 2 OTA providers.  
 
 ---
 
 ## Phase 4 — Premium & Monetization (Q2 2025)
-🎯 Objective: Drive revenue through premium offerings and partnerships.  
+Objective: Drive revenue through premium offerings and partnerships.  
 
 **Key Deliverables**
 - Premium tier:  
@@ -84,15 +84,15 @@ To become the most trusted AI-powered travel assistant that simplifies vacation 
 - Advanced personalization: Visa requirement checker, health/safety alerts.  
 
 **Milestones**
-- ✅ Sprint 13: Premium subscription model launch.  
-- ✅ Sprint 14: Dynamic re-planning AI workflow.  
-- ✅ Sprint 15: Visa + travel advisory integration.  
-- ✅ Sprint 16: Public launch with press release.  
+- Sprint 13: Premium subscription model launch.  
+- Sprint 14: Dynamic re-planning AI workflow.  
+- Sprint 15: Visa + travel advisory integration.  
+- Sprint 16: Public launch with press release.  
 
 ---
 
 ## Phase 5 — Scaling & Continuous Improvement (Q4 2025)
-🎯 Objective: Expand into global markets and become a top AI travel companion.  
+Objective: Expand into global markets and become a top AI travel companion.  
 
 **Key Deliverables**
 - Regional expansion (Asia-Pacific, Europe, South America).  
